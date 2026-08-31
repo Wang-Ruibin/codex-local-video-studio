@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.env
+*.log
+*.mp4
+*.wav
+*.srt
+*.partial
+.local-video-studio-work/
+video-output/
+.DS_Store
+Thumbs.db

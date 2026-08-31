@@ -1,0 +1,29 @@
+{
+  "name": "codex-local-video-studio",
+  "version": "1.0.0",
+  "description": "Create evidence-backed motion-graphics videos locally on Windows and Linux.",
+  "author": {
+    "name": "Wang-Ruibin",
+    "url": "https://github.com/Wang-Ruibin"
+  },
+  "homepage": "https://github.com/Wang-Ruibin/codex-local-video-studio",
+  "repository": "https://github.com/Wang-Ruibin/codex-local-video-studio",
+  "license": "MIT",
+  "keywords": ["codex", "video", "motion-graphics", "science-explainer", "offline", "ffmpeg"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Codex Local Video Studio",
+    "shortDescription": "Research, narrate, render, and validate local videos.",
+    "longDescription": "Turns a topic, post, article, or storyboard into an evidence-backed MP4 with motion graphics, offline narration, procedural BGM, subtitles, editorial review, media QC, and safe cleanup on Windows or Linux.",
+    "developerName": "misakimei0331",
+    "category": "Productivity",
+    "capabilities": ["Research", "Write", "Interactive"],
+    "websiteURL": "https://github.com/Wang-Ruibin/codex-local-video-studio",
+    "defaultPrompt": [
+      "Turn this article into a polished 60-second vertical explainer.",
+      "Research this topic and create an evidence-backed science video.",
+      "Create a local motion-graphics video from this storyboard."
+    ],
+    "brandColor": "#57E3FF"
+  }
+}

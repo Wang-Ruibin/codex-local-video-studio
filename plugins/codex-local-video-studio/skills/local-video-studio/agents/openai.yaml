@@ -1,0 +1,4 @@
+interface:
+  display_name: "Local Video Studio"
+  short_description: "Cross-platform local video research, rendering, and QC"
+  default_prompt: "Use $local-video-studio to turn this source into a polished 45-second vertical video."
