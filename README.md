@@ -173,3 +173,13 @@ Do not commit rendered videos, narration files, local voice models, virtual envi
 ## License
 
 MIT © 2026 Wang-Ruibin. See [LICENSE](LICENSE).
+
+---
+
+<div align="center">
+
+If this little studio turns your ideas into videos, a ⭐ Star would keep its lights on. 🎬✨
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Wang-Ruibin/codex-local-video-studio&type=Date)](https://star-history.com/#Wang-Ruibin/codex-local-video-studio&Date)
+
+</div>

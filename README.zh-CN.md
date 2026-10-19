@@ -173,3 +173,13 @@ python -m unittest discover -s tests -v
 ## 许可证
 
 MIT © 2026 Wang-Ruibin。参见 [LICENSE](LICENSE)。
+
+---
+
+<div align="center">
+
+如果这间小影棚把你的想法做成了视频，送它一颗 ⭐ Star，让影棚的灯一直亮着吧。🎬✨
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Wang-Ruibin/codex-local-video-studio&type=Date)](https://star-history.com/#Wang-Ruibin/codex-local-video-studio&Date)
+
+</div>
